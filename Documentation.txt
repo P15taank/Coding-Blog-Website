@@ -1,0 +1,13 @@
+In this website I only use bootstrap 4.6 and some css and html
+
+Notes:
+
+1. for bootstap search on google: get bootstrap website with v4.6(its the official bootstrap website)
+link: https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
+2. If you wants to copy any template => Go to the bootsrap website and click on examples =>
+inspect the part you want and click on edit as html => ctrl+A and copy the html and place it into your website
+
+3. Reference video of project : https://youtu.be/vpAJ0s5S2t0
+
+4. To copy any component of bootstrap Go to bootsrap website and click on documentation
